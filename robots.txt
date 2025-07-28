@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /users.php
+Disallow: /uploads/
+Disallow: /admin.php
+Disallow: /profile.php
