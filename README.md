@@ -36,7 +36,12 @@ It mimics a real online store and includes common web vulnerabilities:
 Then open http://localhost:8000 in your browser.
 
 
+
+
 See [Vulnerabilities Included](#vulnerabilities-included) for payloads, example URLs, and how to prevent each flaw.
+
+
+
 
 
 🧪 Default Credentials
@@ -51,16 +56,24 @@ User2: john
 Password: john
 
 
+
+
+
 ⚠️ Known Limitations
 • The UI is not responsive.
 • Works properly only on 1920x1080 (Full HD) screens.
 • May break on smaller or mobile displays.
 
 
+
+
+
 📛 Legal
 • This project is not affiliated with Amazon.
 • Logos, names, and branding have been replaced with parody versions.
 • For ethical, educational use only.
+
+
 
 
 
