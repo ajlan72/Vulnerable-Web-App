@@ -1,0 +1,13 @@
+# Ignore sensitive and system files
+.env
+*.log
+*.bak
+*.tmp
+
+# Dependency and build folders
+node_modules/
+vendor/
+
+# OS/system files
+.DS_Store
+Thumbs.db
