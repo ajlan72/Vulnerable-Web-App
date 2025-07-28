@@ -5,11 +5,14 @@
 It mimics a real online store and includes common web vulnerabilities:
 
 - SQL Injection (SQLi)
-- Cross-Site Scripting (XSS)
+- Stored Cross-Site Scripting (XSS)
 - Insecure Direct Object References (IDOR)
 - Broken Access Control
+- Unrestricted File Upload
+- Remote Code Execution (RCE)
+- Sensitive Data Exposure
 - CSRF
-- Weak authentication
+- Weak Authentication
 
 > ⚠️ This app is intentionally vulnerable. Do **not** expose it to the internet or use it in production.
 
