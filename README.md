@@ -43,8 +43,8 @@ See [Vulnerabilities Included](#vulnerabilities-included) for payloads, example 
 Admin: admin
 Password: admin
 
-User1: micheal
-Password: micheal
+User1: michael
+Password: michael
 
 User2: john
 Password: john
