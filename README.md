@@ -29,8 +29,9 @@ It mimics a real online store and includes common web vulnerabilities:
 
 3. Run the app locally:
 
-```bash
-php -S localhost:8000
+   ```bash
+   php -S localhost:8000
+
 
 Then open http://localhost:8000 in your browser.
 
